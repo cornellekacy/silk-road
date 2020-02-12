@@ -1,0 +1,143 @@
+#ah_full{
+color:#3396fb;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#ah_score{
+color:#a0e55b;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+}
+#ah_bot{
+color:#d4d2ff;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+}
+
+#ah_staff{
+color:#b7ff70;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#ah_karma{
+color:#ffb2e5;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#ah_verified{
+color:#a5c2da;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#ah_level{
+color:#DBE6EF;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+}
+#ah_escrow{
+color:#fac916;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#ah_fe{
+color:#ff254e;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#ah_high{
+color:#CC99FF;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#ah_ships{
+font-weight:bold;
+font-size:12px;
+}
+#ah_stealth{
+color:#5bcfbb;
+background-color:#333;
+font-size:12px;
+padding:0px;
+font-weight:bold;
+-moz-border-radius:2px;
+border-radius:2px;
+text-shadow:1px 1px 1px #333;
+border:1px solid #333;
+
+}
+#active{
+font-size:12px;
+}
+.current{
+font-size:12px;
+}
+.disabled{
+font-size:12px;
+}
