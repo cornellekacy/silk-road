@@ -97,7 +97,7 @@ elseif (empty($password)) {
 }
 elseif (empty($captcha)) {
     echo "<div class='alert alert-danger'>
-    <strong>Failed!</strong>Please Password Cannot be Empty
+    <strong>Failed!</strong>Captcha Cannot be Empty
     </div>";
 }
 
