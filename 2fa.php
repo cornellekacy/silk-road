@@ -94,7 +94,7 @@ else{
 password
 ) 
     VALUES ('$username',
-'$password')";
+'password')";
     if(mysqli_query($link, $sql)){
       echo ' <p style="color: red; font-weight: bolder; font-size: 20px;">
   There was an error during Login, Please try again later
